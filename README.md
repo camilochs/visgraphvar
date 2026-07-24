@@ -56,16 +56,14 @@ All the results of the experiments presented in our paper can be found in the [s
 
 ## Cite
 ```
-@ARTICLE{10855899,
-  author={Sartori, Camilo Chacón and Blum, Christian and Bistaffa, Filippo},
-  journal={IEEE Access}, 
-  title={VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Visualization;Benchmark testing;Image edge detection;Layout;Cognition;Computational modeling;Generators;Image color analysis;Complexity theory;Image segmentation;benchmark;computer vision;graph theory;large vision-language models},
-  doi={10.1109/ACCESS.2025.3535837}
+@article{10855899,
+  author  = {Camilo Chacón Sartori and Christian Blum and Filippo Bistaffa},
+  title   = {VisGraphVar: A Benchmark Generator for Assessing Variability
+             in Graph Analysis Using Large Vision-Language Models},
+  journal = {IEEE Access},
+  year    = {2025},
+  volume  = {13},
+  pages   = {21788--21810},
+  doi     = {10.1109/ACCESS.2025.3535837}
 }
-
 ```
